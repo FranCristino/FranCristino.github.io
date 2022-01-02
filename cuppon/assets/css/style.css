@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+section h5 {
+    font-weight: 300;
+}
+body{
+    font-family: 'Roboto', sans-serif ;
+}
+.colorbarras {
+    background-color: #28A745;
+}
+
+
+footer{
+    text-align: center;
+
+}
+footer h5{margin-top: 1rem;
+}
